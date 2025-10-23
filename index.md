@@ -1,6 +1,7 @@
+<!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8"> <!-- Se corrige UFT-8 a UTF-8 -->
+    <meta charset="UTF-8"> 
     <title>Catálogo</title>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -9,11 +10,10 @@
         <h1 class="titulo-desplazable">✨🥧Catálogo de postres 😋 👌 </h1>
     </div>
 
-    <main id="catalogo">
-        <!-- Los productos se insertarán con JavaScript -->
-    </main>
-
+    <main id="catalogo">    </main>
     <script src="script.js"></script>
 </body>
 </html>
+
+
 
